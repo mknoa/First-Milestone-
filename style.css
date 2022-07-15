@@ -54,5 +54,44 @@ span {
     background-color: antiquewhite;
     border-color: brown;
     border-style: solid;
+}
+
+.food {
+    width: 25%;
+    float: left;
+    margin-left: 130px;
+    padding: 20px;
+    background-color: gainsboro;
+    text-align: left;
+    height: 300px;
+    margin-top: 40px;
+    padding-top: 60px;
+}
+
+#world {
+    color: darkgray;
+    text-align: justify;
+}
+
+.shelt {
+    width: 25%;
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+    height: 300px;
+    margin-top: 40px;
+    padding-top: 60px;
+}
+
+.Edu {
+    width: 25%;
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: honeydew;
+    height: 300px;
+    margin-top: 40px;
+    padding-top: 60px;
 
 }
